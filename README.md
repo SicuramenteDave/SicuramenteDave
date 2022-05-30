@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SicuramenteDave
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning Computer Scienze
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
