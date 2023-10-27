@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @SicuramenteDave
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m working with GoldenLion SRL
-- 📫 How to reach me d.boccanfuso@goldenlion.it
+- 💞️ I’m working on different homemade projects
+
+
+<!--- - 📫 How to reach me  --->
 
 <!---
 SicuramenteDave/SicuramenteDave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
